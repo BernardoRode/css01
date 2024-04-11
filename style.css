@@ -1,0 +1,34 @@
+#t1 {
+    color: red;
+}
+
+#t2 {
+    color: blue;
+}
+
+#t3 {
+    background-color: aquamarine;
+}
+
+#t4 {
+    background-color: blueviolet;
+    border: 2px;
+    padding: 2px;
+}
+
+#t5 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.t1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.t2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
